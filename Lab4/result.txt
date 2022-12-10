@@ -1,0 +1,3 @@
+Person full name: Orest Tsyatsyak
+Person age: 18
+Official duty description: Study
